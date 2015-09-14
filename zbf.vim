@@ -54,6 +54,4 @@ syntax match zbfBR "\(kl\|pvl\|ost\|spb\|kr\|zsk\|r\d\{2\}\)r\d\{1,2\}\(\.\|r\)\
 highlight link zbfBR Constant
 
 
-
-
 let b:current_syntax = "zbf"
